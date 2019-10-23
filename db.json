@@ -1,0 +1,34 @@
+{
+  "restaurant": [
+    {
+      "precioPlatillo": "80",
+      "nombrePlatillo": "Hamburguesa",
+      "categoria": "comida",
+      "id": 1
+    },
+    {
+      "precioPlatillo": "65",
+      "nombrePlatillo": "Enchiladas",
+      "categoria": "comida",
+      "id": 2
+    },
+    {
+      "precioPlatillo": "58",
+      "nombrePlatillo": "Torta Especial",
+      "categoria": "comida",
+      "id": 3
+    },
+    {
+      "precioPlatillo": "12",
+      "nombrePlatillo": "Tacos",
+      "categoria": "comida",
+      "id": 4
+    },
+    {
+      "nombrePlatillo": "Enmoladas",
+      "precioPlatillo": "58",
+      "categoria": "comida",
+      "id": 5
+    }
+  ]
+}
